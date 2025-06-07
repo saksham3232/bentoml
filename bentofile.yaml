@@ -1,0 +1,11 @@
+service: "service.py:svc"
+labels:
+  owner: bentoml-team
+  project: bento-service
+include:
+- "*.py"
+python:
+  packages:
+  - scikit-learn
+  - numpy
+  - pandas
