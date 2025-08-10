@@ -88,10 +88,6 @@ Send a numpy array to the API endpoint for classification.
 4. Push to the branch (`git push origin feature-name`)
 5. Open a pull request
 
-## License
-
-This project is for educational purposes and does not currently specify a license.
-
 ## Acknowledgments
 
 - [BentoML](https://bentoml.com/)
